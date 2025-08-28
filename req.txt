@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-google-genai   # or appropriate package for Gemini integration
+faiss-cpu
+python-dotenv
+sentence-transformers
+pypdf
+unstructured
+python-docx
